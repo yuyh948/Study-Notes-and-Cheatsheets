@@ -2,14 +2,14 @@
 This repository is a collection of my personal study notes, cheatsheets, and selected lab reports, shared for reference and learning.
 ## Contents
 
-### ECON1001 Introduction To Economics 经济学导论
-- Cheatsheet for midterm and final  FALL 2025
+### ECON1001 Introduction To Economics 经济学导论 FALL 2025
+- Cheatsheet for midterm and final 
 
-### PHYS1113 LGeneral Physics II Lab 普通物理实验II
-- Lab Reports  FALL 2025
+### PHYS1113 LGeneral Physics II Lab 普通物理实验II FALL 2025
+- Lab Reports 
 
-### BME1309 Introduction to Biomedical Imaging 医学影像导论
-- Cheatsheet for final   FALL 2025
+### BME1309 Introduction to Biomedical Imaging 医学影像导论 FALL 2025
+- Cheatsheet for final 
 
 ## Usage
 Feel free to browse the materials by course. These notes are intended for revision and reference.
