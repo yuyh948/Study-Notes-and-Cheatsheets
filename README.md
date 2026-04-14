@@ -5,7 +5,7 @@ This repository is a collection of my personal study notes, cheatsheets, and sel
 ### ECON1001 Introduction To Economics 经济学导论 FALL 2025
 - Cheatsheet for midterm and final 
 
-### PHYS1113 LGeneral Physics II Lab 普通物理实验II FALL 2025
+### PHYS1113 General Physics II Lab 普通物理实验II FALL 2025
 - Lab Reports 
 
 ### BME1309 Introduction to Biomedical Imaging 医学影像导论 FALL 2025
