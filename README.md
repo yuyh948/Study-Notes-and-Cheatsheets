@@ -9,7 +9,10 @@ This repository is a collection of my personal study notes, cheatsheets, and sel
 - Lab Reports 
 
 ### BME1309 Introduction to Biomedical Imaging 医学影像导论 FALL 2025
-- Cheatsheet for final 
+- Cheatsheet for final
+
+### CS100 Computer Programming 计算机编程 SPRING 2026
+- Cheatsheet for midterm
 
 ## Usage
 Feel free to browse the materials by course. These notes are intended for revision and reference.
